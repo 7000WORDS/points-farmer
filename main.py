@@ -1,4 +1,4 @@
-
+#This is the legal way. 
 import time
 import random
 import webbrowser
